@@ -26,6 +26,7 @@ namespace FuncaoMultiRetorno
         private void Exec03_Load(object sender, EventArgs e)
         {
             AtualizaDG();
+            //123
         }
 
         private void AtualizaDG()
